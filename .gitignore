@@ -37,3 +37,4 @@ modelfiles
 
 # docs ignore
 site
+.vercel
